@@ -7,7 +7,7 @@ metadata:
     - microservice
     - cart
   annotations:
-    backstage.io/source-location: url:https://github.com/lumbini21/online-boutique-test/blob/18e69987f3a5fc37751cee4c0d60243494913947/src/cartservice
+    backstage.io/source-location: url:https://github.com/lumbini21/online-boutique-test/tree/main/src/cartservice
 spec:
   type: service
   lifecycle: production
