@@ -11,7 +11,7 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: user:lumbini21
+  owner: user:lumbiniRandika
   system: online-boutique
   providesApis:
     - cart-api
